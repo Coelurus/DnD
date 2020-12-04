@@ -1,0 +1,5 @@
+Jméno
+Level
+Životy
+Stamina
+Inventář s věcmi
