@@ -5,3 +5,4 @@ Cena
 Nutný level
 Nutná třída?
 Vzácnost
+Velikost
