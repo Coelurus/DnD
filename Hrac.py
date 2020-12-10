@@ -7,6 +7,8 @@ Stamina
 Mana?
 Inventář
 
-pohyb
-útok
-interakce s NPC
+.pohyb()
+.útok()
+.interakcesNPC()
+.hodKostkou()
+.utec()
