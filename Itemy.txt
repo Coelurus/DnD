@@ -6,3 +6,8 @@ Nutný level
 Nutná třída?
 Vzácnost
 Velikost
+
+.použít()
+.nasadit()
+.zbavitse()
+.prodat()
