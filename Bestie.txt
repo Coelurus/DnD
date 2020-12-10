@@ -3,3 +3,6 @@ Level
 Životy
 Stamina
 Inventář s věcmi
+Rychlost
+Odolnost
+Co já vím co všechno ještě máme v tom souboru...
